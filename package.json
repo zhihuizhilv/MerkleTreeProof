@@ -1,0 +1,23 @@
+{
+  "name": "merkletreeproof",
+  "version": "1.0.0",
+  "description": "merkle tree proof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhihuizhilv/MerkleTreeProof.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhihuizhilv/MerkleTreeProof/issues"
+  },
+  "homepage": "https://github.com/zhihuizhilv/MerkleTreeProof#readme",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.30"
+  }
+}
